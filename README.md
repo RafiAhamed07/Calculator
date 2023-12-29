@@ -34,7 +34,7 @@ This Python script implements a graphical calculator using the Tkinter library. 
 
 1. **Running the Script:**
    - Make sure you have Python installed on your system.
-   - Run the script using a Python interpreter (e.g., `python calculator_script.py`).
+   - Run the script using a Python interpreter (e.g., `python main.py`).
 
 2. **Calculator Interface:**
    - Use the graphical interface to input mathematical expressions.
